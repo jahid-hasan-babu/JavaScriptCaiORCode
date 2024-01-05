@@ -4,7 +4,7 @@ var accountPass = "1234";
 accountCity = "Panchagarh";
 let accountState;
 
-// accountId = 2; //mot allowed
+// accountId = 2; //not allowed
 
 /*
 We don`t use var 
